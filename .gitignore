@@ -1,0 +1,19 @@
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+# Java
+*.class
+target/
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
