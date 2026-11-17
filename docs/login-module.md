@@ -8,4 +8,3 @@ This module handles user authentication.
 - User Login
 - Password Validation
 - Authentication
-"@ | Set-Content docs/login-module.md
